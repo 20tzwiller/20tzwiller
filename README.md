@@ -1,7 +1,10 @@
 My name is Thomas Zwiller
 I’m interested in sports analytics
-I’m currently building an NCAAF elo model
+
+I’m currently building an NCAAF Elo model
+
 How to reach me: 20tzwiller@gmail.com
+
 Fun fact: In May I will graduate with an MSBA from Notre Dame!
 
 <!---
