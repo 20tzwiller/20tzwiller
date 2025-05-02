@@ -1,5 +1,4 @@
-My name is Thomas Zwiller
-I’m interested in sports analytics
+My name is Thomas Zwiller and I’m interested in sports analytics
 
 I’m currently building an NCAAF Elo model
 
