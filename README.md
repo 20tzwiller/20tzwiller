@@ -1,6 +1,8 @@
-My name is Thomas Zwiller and I’m interested in sports analytics
+My name is Thomas Zwiller and I’m interested in sports analytics.
 
-I’m currently building an NCAAF Elo model
+I work for the NFL as a Legalized Sports Betting Researcher.
+
+I’m currently working on models to predict College Football and NFL Games. 
 
 How to reach me: 20tzwiller@gmail.com
 
